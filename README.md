@@ -1,8 +1,3 @@
 # parkingsystem
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+It is a car parking management system which allows user to enter car details on entry and exit the car and calculate fare for it .
