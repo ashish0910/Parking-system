@@ -1,0 +1,4 @@
+#Tue Jul 03 15:54:00 IST 2018
+base.0=/Users/ashishaggarwal/Desktop/projects/flutter/parking system/parkingsystem/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
